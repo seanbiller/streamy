@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Unexpected Behavior",
+      "description": "New Description!",
+      "id": 6
+    },
+    {
+      "title": "Delete Me!",
+      "description": "Kill ME!",
+      "userId": "115367771432248489038",
+      "id": 7
+    },
+    {
+      "title": "New Stream",
+      "description": "Its a stream",
+      "userId": "115367771432248489038",
+      "id": 8
+    }
+  ]
+}
